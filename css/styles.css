@@ -1,0 +1,256 @@
+body {
+
+    background: #1D202B;
+	color: #fff;
+	font-family: "New Amsterdam", sans-serif;
+	
+}
+
+h1{    
+    
+    background-color: gold;
+	color:  #1D202B;
+    margin: 0;
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;   
+}
+
+
+h3{    
+    
+    background-color: gold;
+	color:  #1D202B;
+    margin: 0;
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-size: xx-large;
+     
+}
+
+h4{
+
+    
+    margin: 0;
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-size: xx-large;
+
+}
+
+h5{
+
+    margin: 10px;
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-size: xx-large;
+    
+}
+
+
+
+.navbar{
+	
+	background: red;
+	font-family: "New Amsterdam", sans-serif;
+	font-weight: 400;
+    font-size: x-large;
+	   
+}
+
+a:active{
+
+	color: #fff;
+
+  }
+
+.nav-link{
+
+	color: #fff;	
+
+}
+.tituloseccion{
+
+	font-family: "New Amsterdam", sans-serif;
+	background: #1D202B;
+	color: #fff;
+
+}
+
+.nuevosingresos{
+
+	font-family: "New Amsterdam", sans-serif;
+	background: #1D202B;
+	color: #fff;
+
+}
+
+/*
+.tapadisco {
+
+	background-color: gold;
+    padding-top: 0%;
+}*/
+
+
+
+
+.col{
+
+    margin: 10px;
+
+}
+
+.contenedor {
+	width: 90%;
+	max-width: 1200px;
+	margin: auto;
+	padding: 40px 0;
+	display: grid;
+	grid-template-columns: 3fr 1fr;
+	gap: 20px;
+}
+
+.titulo {
+	font-size: 24px;
+	padding: 20px 0;
+}
+
+.contenedor-fechas {
+	
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 20px;
+
+}
+
+.card {
+	border-radius: 10px;
+	min-height: 200px;
+	font-weight: bold;
+	padding: 20px;
+	position: relative;
+	overflow: hidden;
+	background-size: cover;
+	background-position: center center;
+
+}
+
+.card .textos {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.banner {
+	border-radius: 10px;
+	text-align: center;
+	padding: 20px;
+	background-size: cover;
+	background-position: center center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.banner ul {
+	list-style: none;
+}
+
+.banner ul li {
+	margin: 15px;
+	font-weight: bold;
+}
+
+.banner .boton {
+	background: #FFD600;
+	display: block;
+	width: 100%;
+	font-weight: bold;
+	font-size: 14px;
+	text-align: center;
+	padding: 10px;
+	border: none;
+	border-radius: 100px;
+	font-family: 'Roboto', sans-serif;
+	cursor: pointer;
+}
+
+.pepomap{
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	object-fit: cover;
+	
+}
+
+.footdisc{
+
+	background-color: gold;
+
+}
+
+
+body {font-size: 100%}
+h1 {font-size: 3em;}
+@media screen and (max-width: 64em) {
+h1 {
+        font-size: 2.5em;
+    }
+}
+@media screen and (max-width: 50em) {
+h1 {
+        font-size: 2em;
+    }
+}
+@media screen and (max-width: 30em){
+h1 {
+        font-sitze: 1.5em;
+    }
+}
+
+
+
+body {font-size: 100%}
+h3 {font-size: 3em;}
+@media screen and (max-width: 64em) {
+h3 {
+        font-size: 2.5em;
+    }
+}
+@media screen and (max-width: 50em) {
+h3 {
+        font-size: 2em;
+    }
+}
+@media screen and (max-width: 30em){
+h3 {
+        font-sitze: 1.5em;
+    }
+}
+
+body {font-size: 100%}
+h6 {font-size: 3em;}
+@media screen and (max-width: 64em) {
+h6 {
+        font-size: 2.5em;
+    }
+}
+@media screen and (max-width: 50em) {
+h6 {
+        font-size: 2em;
+    }
+}
+@media screen and (max-width: 30em){
+h6 {
+        font-sitze: 1.5em;
+    }
+}
+
+
+
+
+
+
